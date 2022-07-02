@@ -1,0 +1,6 @@
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Common\bin\Release\Carer.Common.dll
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Common\bin\Release\Carer.Common.pdb
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Common\obj\Release\Carer.Common.csproj.AssemblyReference.cache
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Common\obj\Release\Carer.Common.csproj.CoreCompileInputs.cache
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Common\obj\Release\Carer.Common.dll
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Common\obj\Release\Carer.Common.pdb

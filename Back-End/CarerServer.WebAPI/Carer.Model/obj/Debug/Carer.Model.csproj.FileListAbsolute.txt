@@ -1,0 +1,6 @@
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Model\bin\Debug\Carer.Model.dll
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Model\bin\Debug\Carer.Model.pdb
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Model\obj\Debug\Carer.Model.csproj.AssemblyReference.cache
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Model\obj\Debug\Carer.Model.csproj.CoreCompileInputs.cache
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Model\obj\Debug\Carer.Model.dll
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Model\obj\Debug\Carer.Model.pdb

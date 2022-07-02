@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Pazitelj" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="7.2.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="7.2.1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/ad9e7c47b511f132f06ea2a185819b54/transformed/databinding-runtime-7.1.3-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/3b0ee5faf81d13fef1ddb7e5df9c2ef3/transformed/viewbinding-7.1.3-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/54c02a5eb009f2f9255f82b613056ef0/transformed/databinding-adapters-7.1.3-api.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-common/7.1.3/da44b0fa875efb025ddaf79bdf6f3a03c4defb02/databinding-common-7.1.3.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/03b0a39d755789162cd277e1360c94fa/transformed/databinding-ktx-7.1.3-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/1cd0c038db3f03638ca015e20e5aa3bb/transformed/navigation-fragment-ktx-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/cf3222222f00645f62e8abe6c2572d42/transformed/navigation-fragment-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/3cc231f3a4ae4cc32f9a83ffdb230f94/transformed/fragment-ktx-1.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/6cd3b5c252877abe9e385d6f0befde1e/transformed/navigation-ui-ktx-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/5aa82873d3674081ba805fbaefb04118/transformed/navigation-runtime-ktx-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/3ba07c0f5ab02a463a7c170387fa9dc9/transformed/navigation-ui-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/76a8802919ac56a81dddbb02f03cf0de/transformed/navigation-runtime-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/ff4c819387d7d01ee4f39a15046cbdd8/transformed/activity-ktx-1.4.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/88b61eb8f8ec77aaa26a731da6dd94b9/transformed/navigation-common-ktx-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/337944586173e8e83577f94931c610e2/transformed/navigation-common-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/9cfd215bda75e9f55d71f9878f3f7653/transformed/lifecycle-viewmodel-ktx-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/02ac5200bf9b51d08fbe963cc2afc28c/transformed/lifecycle-runtime-ktx-2.3.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/c082ecdcdb8f7c2a354dc9f8455db7c1/transformed/coil-1.1.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/62fa7eeccf31ebc8ab4f8ee89b736b9b/transformed/coil-base-1.1.1-api.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.5.2/d246a704a55b7bddb79407cce4348890eaa341d9/kotlinx-coroutines-android-1.5.2.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/eb45801cfd97c55aafd96acab0f5e3e4/transformed/lifecycle-livedata-ktx-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.5.2/f4cc07a50437659e0043e7da762809a46932b6a0/kotlinx-coroutines-core-jvm-1.5.2.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.21/eeb4d60d75e9ea9c11200d52974e522793b14fba/kotlin-stdlib-jdk8-1.6.21.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/883979d8c5bf0669755a04deb9d1f4aa/transformed/material-1.5.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/cb3c60518b769ce885d4679853abdcd6/transformed/appcompat-1.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/8cf787385a475439ca88bb482a4507b2/transformed/legacy-support-v4-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/91988065f45218858725b506aef7fd33/transformed/play-services-auth-20.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/e8f41add6c234794ea123b32d7459ce2/transformed/lifecycle-extensions-2.2.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/1efe2c4edb83fc301cc6969192af62f4/transformed/viewpager2-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/e1aeed424830cd1efc466f692ecd0035/transformed/play-services-auth-api-phone-18.0.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/f892cf48e3f157a5f0f0cb600c3e9942/transformed/play-services-auth-base-18.0.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/12cf8a46c782ae147366b5872acf52fe/transformed/play-services-base-18.0.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/565b1d5bf7e6a37078c4bd319785736a/transformed/play-services-tasks-18.0.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/90490117dcc19f10f144ae32f893f298/transformed/play-services-basement-18.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/156377a4df3eadc61eeb53b0a8a8222e/transformed/fragment-1.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/b3318e1bbaf40066fccfaba13ee3d403/transformed/core-ktx-1.7.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/d46032ced47facc20642fe307829442d/transformed/activity-1.4.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/00427cfece89b1c052740f83d67f46bc/transformed/appcompat-resources-1.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/5ee523b20f676e01292518110aa95f2a/transformed/legacy-support-core-ui-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/6aa04129e79689372f5391732946819b/transformed/drawerlayout-1.1.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/252d365e7475e5601e8a31f03c51c4a6/transformed/coordinatorlayout-1.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/adb3d637b6e56c0c5d86602480bad577/transformed/dynamicanimation-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/cb1c05ac9f04c86f4affb735758a96b0/transformed/recyclerview-1.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/29cbaf55d414f816a38b3a11e2e98255/transformed/transition-1.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/ff702bb2fea9f79ba2a1d958c447a389/transformed/vectordrawable-animated-1.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/b99ebb606ce6c5d9c97f077cfd1c4508/transformed/vectordrawable-1.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/a02015d476b4d4583c7ea698d21388fa/transformed/media-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/9a7ea5b6a5cd2de11360555413f754a4/transformed/legacy-support-core-utils-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/2645f17cddddcbda29e31e73896cdba0/transformed/loader-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/193851b2abda610ae48475cda486f67d/transformed/viewpager-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/7d8e95a67f71a4d6448f2d6aaeee02fc/transformed/slidingpanelayout-1.2.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/048f6accef0d6df953efa94f344f1d99/transformed/customview-1.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/2af545245a65b52de974d6d13a890656/transformed/swiperefreshlayout-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/55b80c0c4e0df0c2564987f0c224fffc/transformed/asynclayoutinflater-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/ff9857fc0d3e9997b229d143a66b285e/transformed/core-1.7.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/e2e59265e34b786c21bc0522c5d5f0a3/transformed/lifecycle-process-2.4.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/25b8924db9933d0a143a1407a05f0b6f/transformed/lifecycle-service-2.2.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/462ae28f9c79715ee69ad2ea65febc95/transformed/lifecycle-runtime-2.4.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/5a61b3453e844119f1b04a2f6dc5ca39/transformed/cursoradapter-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/f2d8eb994a5908085c867bac82bd8cc5/transformed/savedstate-ktx-1.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/838d7c991f4de10d4a44aa847617237d/transformed/lifecycle-viewmodel-savedstate-2.3.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/7e64f589e11f9e324fa00a31cfca539b/transformed/savedstate-1.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/55e685769382b41374c0294b1d095cfc/transformed/cardview-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/b413b98d4ed723afd8652016eee5fec3/transformed/lifecycle-viewmodel-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/ffe166a0e37e9eb0e66c6645296eada0/transformed/lifecycle-livedata-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/2d32e73f668eebcbb294cbd09ea6c5a8/transformed/lifecycle-livedata-core-ktx-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/26f12520185cffbc7caf5e8495be92c3/transformed/lifecycle-livedata-core-2.4.1-api.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.4.1/5b8f86fea035328fc9e8c660773037a3401ce25f/lifecycle-common-java8-2.4.1.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.1/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.1.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/e69dae45be68d6664f5e7fd33c13f49e/transformed/core-runtime-2.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/57d53475849db7741a195863b599fce7/transformed/versionedparcelable-1.1.1-api.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-ktx/1.1.0/f807b2f366f7b75142a67d2f3c10031065b5168/collection-ktx-1.1.0.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/23660fd3f80a8a04891993d46f9f4c6f/transformed/documentfile-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/fb5e6247bc121fabe1007303392b68fc/transformed/localbroadcastmanager-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/2775a6df18dce71a32df0a3de2ff8332/transformed/print-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/c0bfca8f4387ad0ea0f558c2f9c9b226/transformed/interpolator-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi-kotlin/1.9.3/854bfa6ab979e4fd68735545f294bf4324673459/moshi-kotlin-1.9.3.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.21/568c1b78a8e17a4f35b31f0a74e2916095ed74c2/kotlin-stdlib-jdk7-1.6.21.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/4.2.1/1acac9b48ec1f8dfaf18e027cf913b5eed554fa8/logging-interceptor-4.2.1.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.9.0/db0979801926e6d39bc2478736145f9761c3e034/converter-moshi-2.9.0.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.9.0/d8fdfbd5da952141a665a403348b74538efc05ff/retrofit-2.9.0.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.2.1/95a4734e997bb01f20535ad58bc0a789d60626f2/okhttp-4.2.1.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.3.50/b499f22fd7c3e9c2e5b6c4005221fa47fc7f9a7a/kotlin-reflect-1.3.50.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/com.squareup.moshi/moshi/1.9.3/26406a13ec4394abcb88c6aae6f3ae55e0c5976d/moshi-1.9.3.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/2.10.0/accaddddbb597fb70290fd40358b1ce66b8c2b3d/okio-jvm-2.10.0.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar;C:/Users/KIKIPC/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/3ab5b48b6a92e62ed902cd28ff661210/transformed/annotation-experimental-1.1.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/c35307594bd4a03315e767e1f3901ad2/transformed/startup-runtime-1.0.0-api.jar;C:/Users/KIKIPC/.gradle/caches/transforms-3/357eb9c136c1cb85bf086cfeab554445/transformed/constraintlayout-2.1.3-api.jar;C:/Users/KIKIPC/AppData/Local/Android/Sdk/platforms/android-32/android.jar;C:/Users/KIKIPC/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.6" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.6.21/97bdd5a752ce73b58ef16c17bc7f0ea2faff7a2e/kotlin-compiler-embeddable-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.6.21/5dc3574d9b7bebfcb4ec6b10ada4aaa9e140bd0b/kotlin-reflect-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.21/99c6675100da5d6d5b1c5a1032f27f28008d101b/kotlin-script-runtime-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.6.21/46b78cf392e1c4f10854c3cadba44abb7b82250f/kotlin-daemon-embeddable-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/3afb14d5f9ceb459d724e907a21145e8ff394f02/trove4j-1.0.20200330.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.6.0/330f2244e9030119ab3030fc3fededc86713d9cc/jna-5.6.0.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app">
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Gradle: kaptGeneratedClasses">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/debug" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: kaptGeneratedTestClasses">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/debugUnitTest" />
+          <root url="file://$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/debugAndroidTest" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

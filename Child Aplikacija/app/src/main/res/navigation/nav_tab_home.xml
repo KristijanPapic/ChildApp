@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_home"
+    app:startDestination="@+id/fragment_home">
+
+    <fragment
+        android:id="@+id/fragment_home"
+        android:name="com.example.pazitelj.ui.home.HomeFragment"
+        android:label="Home fragment"
+        tools:layout="@layout/fragment_home">
+
+
+        <action
+            android:id="@+id/action_fragment_home_to_fullOwnerAdFragment"
+            app:destination="@id/fullOwnerAdFragment" />
+        <action
+            android:id="@+id/action_fragment_home_to_fullCarerAdFragment"
+            app:destination="@id/fullCarerAdFragment" />
+        <action
+            android:id="@+id/action_fragment_home_to_appliedUsersFragment"
+            app:destination="@id/appliedUsersFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fullOwnerAdFragment"
+        android:name="com.example.pazitelj.ui.ad.ownerAd.FullOwnerAdFragment"
+        android:label="FullOwnerAdFragment" >
+        <action
+            android:id="@+id/action_fullOwnerAdFragment_to_fragment_home"
+            app:destination="@id/fragment_home" />
+        <argument
+            android:name="id"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_fullOwnerAdFragment_to_navigation_profile"
+            app:destination="@id/navigation_profile"
+            app:launchSingleTop="false">
+            <argument
+                android:name="userId"
+                app:argType="string" />
+            <argument
+                android:name="isCurrent"
+                app:argType="boolean" />
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/fullCarerAdFragment"
+        android:name="com.example.pazitelj.ui.ad.carerAd.FullCarerAdFragment"
+        android:label="FullCarerAdFragment" >
+        <action
+            android:id="@+id/action_fullCarerAdFragment_to_fragment_home"
+            app:destination="@id/fragment_home" />
+        <argument
+            android:name="id"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_fullCarerAdFragment_to_navigation_profile"
+            app:destination="@id/navigation_profile" >
+            <argument
+                android:name="userId"
+                app:argType="string" />
+            <argument
+                android:name="isCurrent"
+                app:argType="boolean" />
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/appliedUsersFragment"
+        android:name="com.example.pazitelj.ui.home.AppliedUsersFragment"
+        android:label="fragment_applied_users_"
+        tools:layout="@layout/fragment_applied_users" >
+        <action
+            android:id="@+id/action_appliedUsersFragment_to_fragment_home"
+            app:destination="@id/fragment_home" />
+        <argument
+            android:name="adId"
+            app:argType="string" />
+        <argument
+            android:name="type"
+            app:argType="integer" />
+    </fragment>
+    <include app:graph="@navigation/nav_tab_profile"/>
+</navigation>

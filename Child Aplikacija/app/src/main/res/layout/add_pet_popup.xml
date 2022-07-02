@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="550dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="#D3D3D3"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please enter child information"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Child gender"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="18dp" />
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/dog_radio"
+            android:text="Male"
+            />
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/cat_radio"
+            android:text="Female"
+            />
+    </RadioGroup>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/pet_name_input_layout"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Child Name"
+       android:layout_gravity="center"
+
+        >
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/pet_name_input"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:inputType="text"
+            />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/pet_breed_input_layout"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Child Age"
+        android:layout_gravity="center"
+
+        >
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/pet_breed_input"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:inputType="text"
+            android:text=""
+            android:layout_marginBottom="30dp"
+            />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cancel_button"
+            android:text="Cancel"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginEnd="40dp"
+            android:backgroundTint="@color/red"
+            />
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/add_button"
+            android:text="Add"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

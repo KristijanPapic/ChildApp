@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="550dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="#D3D3D3"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please rate your experience"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        />
+    <TextView
+        android:id="@+id/overall_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Overall experience"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_marginVertical="10dp"
+        />
+
+    <RatingBar
+        android:id="@+id/overall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars= "5"
+        android:stepSize="1"
+        android:layout_gravity="center"
+        android:theme="@style/RatingBar"
+        />
+    <TextView
+        android:id="@+id/pet_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Child experience"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_marginVertical="10dp"
+        />
+
+    <RatingBar
+        android:id="@+id/pet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars= "5"
+        android:stepSize="1"
+        android:layout_gravity="center"
+        android:theme="@style/RatingBar"
+        />
+    <TextView
+        android:id="@+id/courtesy_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Courtesy experience"
+        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_marginVertical="10dp"
+        />
+
+    <RatingBar
+        android:id="@+id/courtesy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars= "5"
+        android:stepSize="1"
+        android:layout_gravity="center"
+        android:theme="@style/RatingBar"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="80dp"
+        android:gravity="center">
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/submit_button"
+            android:text="SUBMIT"
+            android:layout_gravity="center_horizontal"
+            />
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cancel_button"
+            android:text="CANCEL"
+            android:backgroundTint="@color/red"
+            android:layout_marginStart="35dp"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

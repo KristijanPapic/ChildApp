@@ -1,0 +1,11 @@
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\bin\Debug\Carer.Repository.Common.dll
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\bin\Debug\Carer.Repository.Common.pdb
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\obj\Debug\Carer.Repository.Common.csproj.AssemblyReference.cache
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\obj\Debug\Carer.Repository.Common.csproj.CoreCompileInputs.cache
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\obj\Debug\Carer.Repository.Common.dll
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\obj\Debug\Carer.Repository.Common.pdb
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\bin\Debug\Carer.Model.dll
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\bin\Debug\Carer.Model.pdb
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\obj\Debug\Carer.Repository.Common.csproj.CopyComplete
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\bin\Debug\Carer.Common.dll
+D:\ZAVRSNI RAD\Back-End\CarerServer.WebAPI\Carer.Repository.Common\bin\Debug\Carer.Common.pdb
